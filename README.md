@@ -1,5 +1,9 @@
 AirBnB_Clone
 
-Thee Console
+The Console
 
 Web static
+
+MySQL setup
+
+JSON
