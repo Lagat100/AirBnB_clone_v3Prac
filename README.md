@@ -4,6 +4,6 @@ The Console
 
 Web static
 
-MySQL setup
+MySQL setup, deev & test
 
 JSON
